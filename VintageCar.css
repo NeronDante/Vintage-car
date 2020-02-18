@@ -1,0 +1,126 @@
+ html, body{
+    margin:0;
+    padding:0;
+}
+
+body {
+	background: url(img/bg.png) fixed ;
+	font-family: 'Oswald', sans-serif;
+	color: #8c6239;
+}
+.top {
+	display: grid;
+	grid-template-columns: 1fr 2fr 3fr 2fr 1fr;
+	grid-template-rows: 190px;
+}
+
+.calore {
+	margin-left: 125px;
+	margin-top: 75px;
+	font-size: 48px;
+	letter-spacing: 6px;
+	color: #ffffff;	
+	font-weight: 300;
+}
+
+
+.center {
+	position: relative;
+	color: white;	
+	text-align: center;
+}
+.center1932 {
+	margin-top: 45px;
+	z-index: -1;
+	font-size: 98px;
+	letter-spacing: 20px;
+	color: #202325;
+	font-weight: 600;		
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+.vc {
+	top: -190px;
+	z-index: 1;
+	font-size: 30px;
+	letter-spacing: 10px;
+	color: #ffffff;	
+	font-family: 'Poppins', sans-serif;
+}
+.hyphenl {
+	margin-top: 99px;
+	font-size: 30px;
+	text-align: right;
+	font-family: 'Poppins', sans-serif;
+}
+.hyphenr {
+	margin-top: 99px;
+	font-size: 30px;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+.menu {
+	margin-top: 99px;
+	text-align: left;
+	padding-left: 52px;
+}
+
+.bg_line {
+	position: relative;top: -47px; left: 49.7%; z-index: -5;
+}
+
+.vintagecar {
+	position: relative;left: 10.4%; top: 11.5em; z-index: 2;
+	width: auto;
+	height: auto;
+}
+
+ul {
+	 list-style-type: none;
+	 font-size: 2em;
+	position: relative;
+	top: -497px;
+	padding-right: 72px;
+	z-index: -6;
+	text-align: right;
+	letter-spacing: 10px;
+}
+.grey {
+	color: #7F7F7F;
+}
+
+.inf {
+	font-family: 'Poppins', sans-serif;
+	margin-top: -350px;
+	padding-left: 130px;
+}
+.inf img {
+	;
+}
+.inf1 {
+	font-size: 30px;
+	margin-bottom: -13px;
+}
+.inf2 {
+	font-style: 14px;
+}
+
+
+
+
+
+.rightbot {
+	margin-left: 91%;
+	margin-top: -45px;
+}
+
+.drible {
+	width: 30px;
+	height: 40px;
+}
+.behance {
+	width: 60px;
+	height: 40px;
+}
